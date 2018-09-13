@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka-server</artifactId>
-            <version>1.4.6.BUILD-SNAPSHOT</version>
+            <version>1.4.5.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>io.zipkin.java</groupId>
